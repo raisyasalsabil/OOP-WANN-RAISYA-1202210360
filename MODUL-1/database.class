@@ -1,0 +1,10 @@
+import java.util.Scanner;
+
+
+public class database {
+    public static void main(String[] args) throws Exception {
+        System.out.println("Selamat Datang di Restoran EAD");
+        System.out.println("Silahkan Register Terlebih Dahulu");
+        System.out.println("====================");
+        
+}
